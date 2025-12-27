@@ -33,6 +33,3 @@ Standard UART logging was rejected to avoid blocking CPU cycles and external cab
 3. Start Debug Session.
 4. Open **SWV ITM Data Console**, enable **Port 0**, and click "Start Trace" (Red Button).
 5. Resume code.
-
-## License
-MIT
