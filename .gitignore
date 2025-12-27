@@ -1,0 +1,18 @@
+# STM32CubeIDE Build output
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.su
+
+# IDE Settings
+.settings/
+.mxproject
+
+# System junk
+.DS_Store
+Thumbs.db
